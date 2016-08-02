@@ -1,0 +1,20 @@
+{
+  "name": "spwidgetwgulp",
+  "description": "A sample project with gulp-spsave",
+  "main": "index.js",
+  "authors": [
+    "Bernard mantha"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Gulp-SPSave"
+  ],
+  "homepage": "https://github.com/VotronSP/SPWidgetWGulp",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
